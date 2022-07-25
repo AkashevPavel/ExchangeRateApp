@@ -59,6 +59,8 @@ dependencies {
     implementation "androidx.room:room-paging:$room_version"
     //coroutines
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1"
+    //paging3
+    implementation "androidx.paging:paging-runtime:3.1.1"
 
     implementation "androidx.core:core-ktx:1.8.0"
     implementation "androidx.appcompat:appcompat:1.4.2"

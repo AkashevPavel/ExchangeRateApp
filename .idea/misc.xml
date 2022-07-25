@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_plus.xml" value="0.1785" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_currency.xml" value="0.371875" />
         <entry key="app/src/main/res/layout/fragment_currency_list.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/layout/item_currency_list.xml" value="0.371875" />
       </map>
     </option>
   </component>

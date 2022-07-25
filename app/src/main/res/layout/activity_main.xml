@@ -7,7 +7,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragment_container_view"
-        android:name="com.akashev_pavel.exchange_rate_app.CurrencyFragment"
+        android:name="com.akashev_pavel.exchange_rate_app.ui.CurrencyFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
